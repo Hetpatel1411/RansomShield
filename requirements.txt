@@ -1,0 +1,6 @@
+Python
+watchdog
+psutil
+streamlit
+pandas
+plotly
